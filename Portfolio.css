@@ -3,57 +3,54 @@
   font-size: 30px;
   color: black;
   
-}.navbar-brand {
-   font-family: pacifico;
+}
+#top {
+  background: url("http://mobo.co.uk/wp-content/uploads/2014/11/Website-Design-Background.png"); no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% auto;
+  color: black;
+}
+h2{
+  margin: 50px 0px 0px 0px;
+  text-align: center;
+}
+#reality {
+  font-size: 50px;
+  font-family: monospace;
+  padding: 50px;
+}
+#about{
+  font-family: Comic Sans MS, cursive, sans-serif;
+  text-align: center;
   font-size: 30px;
-  color: black;
-  
+  padding: 50px;
 }
-#top {
-  background-color: red;
-  color: black;
-}
-h2{
-  margin: 50px 0px 0px 0px;
-  text-align: center;
-}
-#about{
-  text-align: center;
+#portfolio {
+  background: url("http://fc09.deviantart.net/fs71/f/2014/084/f/c/web_developer_wallpaper__white__by_plusjack-d7bmuby.jpg"); no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+ background-size: 100%;
+ padding: 150px;
+ text-align: center;
 }
 #tribute {
-    text-align: center;
-  }
+  color: black;
+}
+#footer {
+  background: url("http://wallpoper.com/images/00/27/39/66/wood-texture_00273966.jpg"); no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size:100% auto;
+}
 #social {
-  margin: 20px 10px;
-text-align: center;
+  text-align: center;
 } 
 #social1 {
   text-align: center;
   font-size: 20px;
   color: white;
 }
- 
-#top {
-  background-color: red;
-  color: black;
-}
-h2{
-  margin: 50px 0px 0px 0px;
-  text-align: center;
-}
-#about{
-  text-align: center;
-}
-#tribute {
-    text-align: center;
-  }
-#social {
-  margin: 20px 10px;
-text-align: center;
-} 
-#social1 {
-  text-align: center;
-  font-size: 20px;
-  color: white;
-}
- 
